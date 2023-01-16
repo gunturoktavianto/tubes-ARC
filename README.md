@@ -34,7 +34,7 @@ Terdapat 4 pages:
     - Membuat layouting atau frontend
   
 
-**Video demo website**:
+## Video demo website:
 
 ## Disclaimer:
 Website tidak dihosting karena sekarang Heroku dan Railway sudah berbayar. Mungkin kalo dari Kakak-kakak ada saran platform untuk deploy NodeJS dan MongoDB yang gratis bisa kasih saran di grup line supaya nanti bisa kami hosting. Terima kasih Kak :)
