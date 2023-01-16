@@ -23,4 +23,15 @@ Terdapat 4 pages:
 5. Buka browser dan ketik localhost:3000
 6. Website sudah bisa diload dan tutorial penggunaan website bisa dilihat pada page "Tutorial"
 
+**Pembagian Tugas**
+1. Guntur:
+    - Membuat file-file ExpressJS dan app.js
+2. Rayhan:
+    - Membuat layouting atau frontend
+3. Valdi:
+    - Membuat database menggunakan MongoDB
+4. Albert:
+    - Membuat layouting atau frontend
+  
+
 **Video demo website**:
