@@ -7,7 +7,7 @@
 4. Albert (Albert)
 
 ## Deskripsi Aplikasi:
-Website ini dibuat menggunakan Bootstrap, NodeJS, ExpressJS, dan MongoDB.
+Website ini sudah **responsive** dan dibuat menggunakan **Bootstrap, NodeJS, ExpressJS, dan MongoDB**.
 
 Terdapat 4 pages:
 1. Home
@@ -35,6 +35,7 @@ Terdapat 4 pages:
   
 
 ## Video demo website:
+https://youtu.be/ZsREaygM3qE
 
 ## Disclaimer:
 Website tidak dihosting karena sekarang Heroku dan Railway sudah berbayar. Mungkin kalo dari Kakak-kakak ada saran platform untuk deploy NodeJS dan MongoDB yang gratis bisa kasih saran di grup line supaya nanti bisa kami hosting. Terima kasih Kak :)
