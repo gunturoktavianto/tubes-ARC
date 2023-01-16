@@ -1,10 +1,10 @@
 **Website Menfess**
 
 **Anggota**:
-1. Guntur Oktavianto Nugroho
-2. Rayhan Fadhlan Azka
-3. Timotius Vivaldi Gunawan
-4. Albert
+1. Guntur Oktavianto Nugroho (Guntur)
+2. Rayhan Fadhlan Azka (Rayhan)
+3. Timotius Vivaldi Gunawan (Valdi)
+4. Albert (Albert)
 
 **Deskripsi Aplikasi**:
 Website ini dibuat menggunakan Bootstrap, NodeJS, ExpressJS, dan MongoDB.
